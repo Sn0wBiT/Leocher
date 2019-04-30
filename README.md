@@ -1,7 +1,7 @@
 # leocher_app
 
 Leopold's Launcher. This Launcher is secial made for Soyes XS.
-
+![Default app screen](https://i.imgur.com/pUvgEV7.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
