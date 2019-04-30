@@ -1,6 +1,6 @@
 # leocher_app
 
-Leopold's Launcher. This Launcher is secial made for Soyes XS.</br>
+Leopold's Launcher. This Launcher is secial made for Soyes XS. Feel free to customize it!!</br></br>
 ![Default app screen](https://i.imgur.com/pUvgEV7.png)
 ## Getting Started
 
