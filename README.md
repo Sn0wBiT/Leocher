@@ -1,6 +1,6 @@
 # leocher_app
 
-A new Flutter project.
+Leopold's Launcher. This Launcher is secial made for Soyes XS.
 
 ## Getting Started
 
